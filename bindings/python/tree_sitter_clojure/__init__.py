@@ -1,4 +1,4 @@
-"Kotlin grammar for tree-sitter"
+"Clojure grammar for tree-sitter in python"
 
 from ._binding import language
 
